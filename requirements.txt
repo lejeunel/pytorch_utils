@@ -1,0 +1,9 @@
+scipy
+sharedmem
+progressbar2
+pandas
+munch
+torch
+torchvision
+matplotlib
+numpy
